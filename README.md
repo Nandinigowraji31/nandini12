@@ -1,2 +1,1 @@
-# nandini12
-Googleplaystore analysis
+Google Play Store Analysis Project
